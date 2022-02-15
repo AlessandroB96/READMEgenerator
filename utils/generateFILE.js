@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const writeFile = () => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/README.md', 'fileContent2', err => {
+        fs.writeFile('./README.md', 'fileContent2', err => {
                 // if there's an error, reject the Promise and send the error to the Promise's `.catch()` method
                 if (err) {
                 reject(err);
