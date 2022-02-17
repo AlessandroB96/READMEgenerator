@@ -1,7 +1,14 @@
 const Badge = require('../src/licenseDisplay')
 
 const generateREADME = projectData => {
+  
   return `
+
+  <center>
+  
+  ${Badge(projectData)}
+
+  </center>
   
   # ${projectData.name}
 
@@ -52,6 +59,7 @@ const generateREADME = projectData => {
   #### Github: https://github.com/${projectData.github}
 
   `
+
 }
 
 
@@ -59,4 +67,5 @@ const generateREADME = projectData => {
 module.exports = templateData => {
     return generateREADME(templateData);
 }
+
 

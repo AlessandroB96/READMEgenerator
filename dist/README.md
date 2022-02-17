@@ -1,14 +1,12 @@
 
 
-  (licenseData) => {
-    if(!licenseData) {
-        return "no licenses used";
-    } else if (licenseData.license === "MIT") {
-        return `you choose MIT`;
-    }
-}
+  <center>
   
-  # sffdsfdsf
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  </center>
+  
+  # dsffds
 
   ## TABLE OF CONTENTS
 
@@ -23,37 +21,37 @@
 
   ## Description
 
-  ### ddfd
+  ### dsfsdf
 
   </br>
 
   ## Installation
 
-  ### dfdf
+  ### df
 
   </br>
 
   ## Contributions
 
-  ### dfdf
+  ### dfs
 
   </br>
 
   ## Usage
   
-  ### dfdf
+  ### dsffds
 
   </br>
 
   ## Tests
 
-  ### dfdf
+  ### dsfdsf
 
   </br>
 
   ## Questions
 
-  #### Email: dfdf
-  #### Github: https://github.com/dfdfdf
+  #### Email: dsfdsf
+  #### Github: https://github.com/dfdsf
 
   
