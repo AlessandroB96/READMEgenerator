@@ -1,12 +1,12 @@
 
 
-  <center>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <p align="center">
 
-  </center>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  # dsffds
+  </p>
+  
+  # altin
 
   ## TABLE OF CONTENTS
 
@@ -21,37 +21,37 @@
 
   ## Description
 
-  ### dsfsdf
+  ### this is a description 
 
   </br>
 
   ## Installation
 
-  ### df
+  ### instructions go here
 
   </br>
 
   ## Contributions
 
-  ### dfs
+  ### contribution criteria goes here
 
   </br>
 
   ## Usage
   
-  ### dsffds
+  ### usage info goes here
 
   </br>
 
   ## Tests
 
-  ### dsfdsf
+  ### test instructions go here
 
   </br>
 
   ## Questions
 
-  #### Email: dsfdsf
-  #### Github: https://github.com/dfdsf
+  #### Email: abelaj7196@gmail.com
+  #### Github: https://github.com/alessandroB96
 
   

@@ -4,11 +4,11 @@ const generateREADME = projectData => {
   
   return `
 
-  <center>
-  
-  ${Badge(projectData)}
+  <p align="center">
 
-  </center>
+  ${Badge(projectData)}
+  
+  </p>
   
   # ${projectData.name}
 
