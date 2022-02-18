@@ -6,7 +6,7 @@
   
   </p>
   
-  # altin
+  # README Generator
 
   ## TABLE OF CONTENTS
 
@@ -21,25 +21,25 @@
 
   ## Description
 
-  ### this is a description 
+  ### where the description goes
 
   </br>
 
   ## Installation
 
-  ### instructions go here
+  ### Where the installation instructions go
 
   </br>
 
   ## Contributions
 
-  ### contribution criteria goes here
+  ### where the contribution criteria goes
 
   </br>
 
   ## Usage
   
-  ### usage info goes here
+  ### usage info is displayed here
 
   </br>
 
@@ -52,6 +52,6 @@
   ## Questions
 
   #### Email: abelaj7196@gmail.com
-  #### Github: https://github.com/alessandroB96
+  #### Github: https://github.com/AlessandroB96
 
   

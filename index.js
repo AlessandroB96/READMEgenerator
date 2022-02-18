@@ -6,7 +6,6 @@ const generateREADME = require('./dist/src/md-template')
 
 const promptUser = () => {
 
-
     return inquirer.prompt([
         {
         type: 'input',

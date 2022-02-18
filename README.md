@@ -3,12 +3,20 @@
 
   </br>
 
-  <p align="center">
+----------------------------------------------------------
+## Click the image below to display my youtube video walking through the application
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
-  </p>
-  
+</br>
+
+[![image ALT TEXT](./utils/thumbnail.png)](https://www.youtube.com/watch?v=xW34s3Jw84k&ab_channel=AlessandroBelaj)
+
+----------------------------------------------------------
+
+</br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
   # README Generator
 
   ## TABLE OF CONTENTS
